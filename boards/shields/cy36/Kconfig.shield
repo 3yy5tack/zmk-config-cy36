@@ -1,0 +1,5 @@
+config SHIELD_CY36_LEFT
+    def_bool $(shields_list_contains,cy36_left)
+
+config SHIELD_CY36_RIGHT
+    def_bool $(shields_list_contains,cy36_right)
