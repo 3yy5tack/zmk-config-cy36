@@ -19,6 +19,6 @@
 #
 ---
   - board: nice_nano_v2
-    shiled: cy36_left
+    shield: cy36_left
   - board: nice_nano_v2
-    shiled: cy36_right   
+    shield: cy36_right   
